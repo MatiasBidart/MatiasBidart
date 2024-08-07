@@ -23,14 +23,14 @@
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
    &emsp;
      <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"></a>
-  &emsp;
-   <a href="https://www.adobe.com" target="_blank"> 
-    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-36454F?logo=adobephotoshop&amp;logoColor=31A8FF&amp;style=for-the-badge"/> 
-  </a> 
     &emsp;
   <a href="https://www.blender.org/" target="_blank"> 
     <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=fff&style=flat"/>
   </a>
+    &emsp;
+   <a href="https://www.adobe.com" target="_blank"> 
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Photoshop-36454F?logo=adobephotoshop&amp;logoColor=31A8FF&amp;style=for-the-badge"/> 
+  </a> 
 </p>
 
 
